@@ -2,4 +2,5 @@
    - Usar site **https://banner.godori.dev/** para criar o banner.
    - Fazer download do banner.
    - Colocar na pagina assets ou img do projeto.
-   - ![Banner do MovieHub](./assets/banner.png)
+   - 
+![Banner do MovieHub](./assets/🎬_Movie_Hub.png)
