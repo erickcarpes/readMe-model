@@ -3,4 +3,4 @@
    - Fazer download do banner.
    - Colocar na pagina assets ou img do projeto.
    - 
-![Banner do MovieHub](./assets/🎬_Movie_Hub.png)
+![Banner do MovieHub](/assets/logo.png)
